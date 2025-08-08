@@ -97,7 +97,7 @@ streamlit run app.py
 
 ---
 
-## 🧭 Future Work
+## 🧭 Future Works
 
 * 🔄 Real-time audio streaming support
 * 🧠 Improved emotion fusion across modalities
